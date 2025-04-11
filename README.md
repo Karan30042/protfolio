@@ -16,9 +16,6 @@ Tailfolio is a modern and visually appealing personal portfolio website design p
   * [Deployment](#deployment)
   * [Conclusion](#conclusion)
 
-## Screenshot
-![tailfolio](https://user-images.githubusercontent.com/106135144/216605853-802eee05-de89-44f9-8b30-7d3eb0a6004b.png)
-
 ## Features
 1. Modern UI Blog Design
 2. Dark theme
