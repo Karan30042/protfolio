@@ -10,7 +10,6 @@ Tailfolio is a modern and visually appealing personal portfolio website design p
 
 ## Table of Content
   * [Introduction](#introduction)
-  * [Screenshot](#screenshot)
   * [Features](#features)
   * [Technologies Used](#technologies-used)
   * [How to Use](#how-to-use)
